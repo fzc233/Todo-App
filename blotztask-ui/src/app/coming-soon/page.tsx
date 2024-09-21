@@ -8,7 +8,7 @@ export default function Home() {
       <H1>⚒️ Coming Soon...</H1>
       <H3 className="text-lg font-light text-muted-foreground sm:text-xl">
         We are currently working on this page. Please check back later.
-        Testing
+        Testing ---
       </H3>
       <div className="mt-16 flex flex-col gap-3 md:flex-row">
         <Link href="/">
